@@ -1,0 +1,1 @@
+Text embeddings are numerical representations of text transformed into dense vectors in a continuous mathematical space. Models map semantic similarity into geometric distance. Vector similarity metrics, such as Cosine Similarity, Dot Product, and Euclidean Distance, measure how closely related two embeddings are in vector space.
